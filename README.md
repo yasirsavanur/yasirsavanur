@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Yasir and I am an aspiring Data Analyst with over 2years of experience in Education, Tech & Manufacturing sectors, and now looking to make professional inroads into the world of Data.
 <!--
 **yasirsavanur/yasirsavanur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
