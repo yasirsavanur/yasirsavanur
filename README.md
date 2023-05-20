@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Yasir and I am an aspiring Data Analyst with over 2years of experience in Education, Tech & Manufacturing sectors, and now looking to make professional inroads into the world of Data.
+I'm Yasir and am an aspiring Data Analyst with over 2 years of experience in Education, Tech & Manufacturing sectors, and now looking to make professional inroads into the world of Data. I really enjoy learning languages and frameworks such as PySpark.
+
+I have a Bachelor's Degree in Mechanical Engineering from Coventry University. I would love to connect with like minded people, so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yasir-savanur/). Cheers!
 <!--
 **yasirsavanur/yasirsavanur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
