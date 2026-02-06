@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yasir and am an aspiring QA Automation Test Engineer with a year of hands-on industry experience designing and maintaining automated test solutions within CI/CD environments. I’m currently pursuing a Master’s in Business Analytics at Aston University to deepen my skills in modern data and decision making.
+I'm Yasir and am an aspiring Data QA Test Engineer with a year of hands-on industry experience designing and maintaining automated test solutions within CI/CD environments. I’m currently pursuing a Master’s in Business Analytics at Aston University to deepen my skills in modern data and decision making.
 
 I also hold a Bachelor's Degree in Mechanical Engineering from Coventry University. I would love to connect/collaborate with like minded people, so feel free to drop a message on my [Email](yasir.savanur@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yasir-savanur/). Cheers!
 <!--
